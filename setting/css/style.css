@@ -1,5 +1,5 @@
 .jimu-widget-map-filter input{
-  	margin-left: 10px;
+  	margin-left: 0;
 }
 
 .jimu-widget-map-filter .group-block {
@@ -136,4 +136,3 @@
 	margin-left: -3px;
 	margin-right: -3px;
 }
-
